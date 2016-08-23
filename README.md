@@ -1,4 +1,4 @@
-# [TeleAgent](telegram.me/TeleAgent_Team)
+# [TeleAgent](www.github.com/TeleAgent)
 
 رباتی قدرتمند به زبان فارسی و انگلیسی
 
